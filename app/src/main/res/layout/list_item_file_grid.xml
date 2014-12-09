@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingLeft="16dp"
+    android:background="?list_selector"
+    android:descendantFocusability="blocksDescendants">
+
+    <RelativeLayout
+        android:id="@android:id/widget_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/textFrame"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/menu"
+            android:paddingRight="2dp"
+            android:layout_marginBottom="16dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/ic_folder"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@android:id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:textColor="?title_text"
+                android:singleLine="true"
+                android:fontFamily="sans-serif"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:ellipsize="middle"
+                tools:text="Title" />
+
+            <TextView
+                android:id="@android:id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:singleLine="true"
+                android:fontFamily="sans-serif-light"
+                android:layout_marginBottom="4dp"
+                android:textColor="?body_text"
+                tools:text="Content" />
+
+            <TextView
+                android:id="@+id/directory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:visibility="gone"
+                android:fontFamily="sans-serif-light"
+                android:textColor="?body_text"
+                tools:text="Directory"
+                tools:visibility="visible" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:src="?overflow"
+            android:scaleType="fitXY"
+            android:layout_marginLeft="8dp"
+            android:layout_alignParentRight="true"
+            android:background="?menu_selector"
+            android:layout_centerVertical="true"
+            android:padding="8dp"
+            android:focusableInTouchMode="false"
+            android:focusable="false"
+            android:layout_marginRight="7dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

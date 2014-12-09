@@ -1,0 +1,16 @@
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.0.0'
+        classpath 'com.github.hamsterksu:android-appversion-gradle-plugin:1.+'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="cabinet_color">#57687c</color>-->
+    <!--<color name="cabinet_color_darker">#4b5b6c</color>-->
+
+    <color name="cabinet_color">#1976D2</color>
+    <color name="cabinet_color_darker">#1565C0</color>
+    <color name="cabinet_accent_color_lighter">#f06292</color>
+    <color name="cabinet_accent_color">#e91e63</color>
+    <color name="cabinet_accent_color_darker">#d81b60</color>
+    <color name="cabinet_gray">#757575</color>
+    <color name="cabinet_gray_darker">#616161</color>
+
+    <color name="drawer_background">#fff</color>
+    <color name="accent_color">#333</color>
+    <color name="search_view_hint">#BBFFFFFF</color>
+
+    <color name="button_disabled">#ddd</color>
+    <color name="button_disabled_dark">#303030</color>
+    <color name="dark_background">#242424</color>
+
+    <color name="empty_text">#C7C7C7</color>
+    <color name="empty_text_dark">#575757</color>
+
+    <color name="statusbar_color_cab">#212121</color>
+
+</resources>

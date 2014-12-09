@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bine ai venit!</string>
+    <string name="welcome_intro">Bine ai venit în Cabinet! Cabinet este un manager de fișiere simplist cu un design estetic
+ plӑcut și care îndeplinește toate funcţiile necesare la care te aștepti. \n\n Ia te uitӑ la acest fișier:</string>
+    <string name="welcome_conclusion">Încercaţi sӑ apӑsaţi pe iconiţa fișierului sau butonul de meniu. Apӑsând pe iconiţӑ, pregӑtește fișierul pentru diverse acţiuni, iar acest lucru se poate realiza si prin apӑsare îndelungatӑ pe numele fișierului. Apӑsând pe butonul de meniu, va deschide un meniu de tip popup cu acţiuni individuale pentru fișiere. \n\nCabinet
+ mai oferӑ si alte opţiuni, printre care și conexiunea la distanţӑ prin SFTP. Mulţumesc pentru cӑ aţi incercat Cabinet!</string>
+    <string name="lets_go">Hai sa pornim!</string>
+    <string name="open_as">Deschide Sub Formӑ…</string>
+    <string name="pin">Marcheazӑ</string>
+    <string name="copy">Copiazӑ</string>
+    <string name="cut">Taie</string>
+    <string name="rename">Redenumește</string>
+    <string name="delete">Șterge</string>
+    <string name="paste">Lipește</string>
+    <string name="share">Distribuie</string>
+    <string name="zip">Arhiveazӑ</string>
+    <string name="unzip">Dezarhiveazӑ</string>
+    <string name="selectAll">Selecteazӑ Tot</string>
+    <string name="details">Detalii</string>
+    <string name="no_files">Nici un fișier</string>
+    <string name="storage">Memorie Internӑ</string>
+    <string name="root">Root</string>
+    <string name="directory">Destinaţie</string>
+    <string name="unknown">Necunoscut</string>
+    <string name="go_up">Sus un nivel</string>
+    <string name="x_files">%1$d fișiere</string>
+    <string name="x_dirs">%1$d locaţii</string>
+    <string name="no_x_files">Nici un %1$s</string>
+    <string name="done">Gata</string>
+    <string name="remove_shortcut">Șterge Scurtӑtura</string>
+    <string name="confirm_remove_shortcut">Ești sigur cӑ vrei sӑ ștergi scurtӑtura spre %1$s?</string>
+    <string name="sort_modified">Ultima modificare</string>
+    <string name="modified_x">Modificat la %1$s</string>
+    <string name="iconpress_hint">Poţi apӑsa pe iconiţa unui fișier pentru selecţie rapidӑ!</string>
+    <string name="drawer_longpress_hint">Pont: ţine apӑsat pe scurtӑturile marcate pentru a le șterge!</string>
+    <string name="navigation_drawer_open">Deschide meniul de navigare</string>
+    <string name="navigation_drawer_close">Inchide meniul de navigare</string>
+    <string name="new_folder">Folder Nou</string>
+    <string name="created_folder">Folder %1$s creat</string>
+    <string name="untitled">Neintitulat</string>
+    <string name="renamed_to">Redenumit în %1$s</string>
+    <string name="moved_to">Mutat în %1$s</string>
+    <string name="copied_to">Copiat în %1$s</string>
+    <string name="no">Nu</string>
+    <string name="yes">Da</string>
+    <string name="newStr">Nou</string>
+    <string name="search">Cauta</string>
+    <string name="confirm_delete">Ești sigur cӑ vrei sӑ ștergi %1$s?</string>
+    <string name="confirm_delete_xfiles">Ești sigur cӑ vrei sӑ ștergi cele %1$d fișiere?</string>
+    <string name="unavailable">Nu este valabil</string>
+    <string name="grid_mode">Mod de afișaj tip grilӑ</string>
+    <string name="sort_by">Sorteazӑ Dupӑ</string>
+    <string name="sort_name_folderstop">Nume, foldere mai întâi</string>
+    <string name="sort_name">Nume</string>
+    <string name="sort_extension">Extensie</string>
+    <string name="sort_size_lowhigh">Mӑrime, de la mic spre mare</string>
+    <string name="sort_size_highlow">Mӑrime, de la mare spre mic</string>
+    <string name="new_remote_connection">Conexiune nouӑ SFTP</string>
+    <string name="network_service_label">Serviciu Reţea Cabinet</string>
+    <string name="connection_notification_content">Conectat la %1$s</string>
+    <string name="cabinet_sftp">Cabinet SFTP</string>
+    <string name="disconnect">Deconecteazӑ</string>
+    <string name="host">Host</string>
+    <string name="port">Port</string>
+    <string name="username">Username</string>
+    <string name="password">Parolӑ</string>
+    <string name="test_connection">Testeazӑ Conexiunea</string>
+    <string name="connection_successful">Conexiune reușitӑ!</string>
+    <string name="disconnect_prompt">Vrei sӑ te deconectezi de la %1$s?</string>
+    <string name="uploaded_to">Uploadat catre %1$s</string>
+    <string name="downloaded_to">Downloadat în %1$s</string>
+    <string name="connecting">Se conecteazӑ…</string>
+    <string name="downloading">Se downloadeazӑ…</string>
+    <string name="deleting">Se șterge…</string>
+    <string name="making_folder">Se creazӑ folderul…</string>
+    <string name="renaming">Se redenumește…</string>
+    <string name="unzipping">Se dezarhiveazӑ…</string>
+    <string name="zipping">Se arhiveazӑ…</string>
+    <string name="moving">Se mutӑ…</string>
+    <string name="uploading">Se uploadeazӑ…</string>
+    <string name="copying">Se copie…</string>
+    <string name="failed_delete_file">Ștergerea %1$s eșuatӑ</string>
+    <string name="failed_make_directory">Creare folderului nou %1$s eșuatӑ</string>
+    <string name="failed_rename_file">Redenumire eșuatӑ a: %1$s</string>
+    <string name="failed_unzip_file">Dezarhivare eșuatӑ a: %1$s</string>
+    <string name="failed_zip_files">Arhivare eșuatӑ a: %1$s</string>
+    <string name="error">Eroare</string>
+    <string name="failed_download_file">S-a întâmpinat o eroare în timpul descӑrcӑrii: %1$s</string>
+    <string name="failed_connect_server">Conexiune eșuatӑ la serverul: %1$s</string>
+    <string name="activity_not_found">Nu a fost gӑsitӑ aplicaţia corespunzӑtoare pentru a deschide acest fișier</string>
+    <string name="failed_upload_file">Încӑrcare eșuatӑ a: %1$s</string>
+    <string name="failed_copy_file">Copiere eșuatӑ a: %1$s</string>
+    <string name="no_apps_for_sharing">Nu s-au gӑsit aplicaţii care sӑ distribuie mai departe acest tip de fișier</string>
+    <string name="directory_already_exists">Locaţia este deja existentӑ</string>
+    <string name="copy_x"><![CDATA[
+ <b>Copiazӑ:</b>&nbsp;&nbsp;%1$s
+    ]]></string>
+    <string name="cut_x"><![CDATA[
+ <b>Taie:</b>&nbsp;&nbsp;%1$s
+    ]]></string>
+    <string name="copy_xfiles"><![CDATA[
+ <b>Copiazӑ:</b>&nbsp;&nbsp;%1$d fișierele
+    ]]></string>
+    <string name="cut_xfiles"><![CDATA[
+ <b>Taie</b>&nbsp;&nbsp;%1$d fișiere
+    ]]></string>
+    <string name="search_files">Cautӑ fișiere…</string>
+    <string name="search_x"><![CDATA[
+ <b>Cautӑ</b>&nbsp;%1$s
+    ]]></string>
+    <string name="donate">Doneazӑ</string>
+    <string name="thank_you">Mulţumesc mult!</string>
+    <string name="rate">Evalueazӑ</string>
+    <string name="later">Mai târziu</string>
+    <string name="rate_desc">Apreciezi ce îţi ofera Cabinet? Lasӑ o evaluare pe Google Play.</string>
+    <string name="sure">Desigur!</string>
+    <string name="no_thanks">Nu, mersi</string>
+    <string name="file">Fișier</string>
+    <string name="folder">Folder</string>
+    <string name="remote_connection">Conexiune la distanţӑ…</string>
+    <string name="text">Text</string>
+    <string name="image">Imagine</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="other">Altele</string>
+    <string name="info">Detalii</string>
+    <string name="files">Fișiere</string>
+    <string name="show_hidden_files">Afișarea Fișierelor Ascunse</string>
+    <string name="about">Despre</string>
+    <string name="about_desc">Despre aplicaţie și autorul ei.</string>
+    <string name="show_hidden_files_desc">Bifeazӑ dacӑ sӑ afișeze sau nu fișierele ascunse.</string>
+    <string name="ui">Interfaţӑ</string>
+    <string name="settings">Setӑri</string>
+    <string name="about_body"><![CDATA[
+Un manager de fișiere minimalist, intuitiv și frumos pentru Android 4.1 sau mai nou.<br/><br/> 
+Creat de <b>Aidan Follestad</b><br/><a href=\'http://aidanfollestad.com\'>Website</a>&nbsp;&nbsp;
+<a href=\'https://twitter.com/afollestad\'>Twitter</a>&nbsp;&nbsp; 
+ <a href=\'https://google.com/+AidanFollestad\'>Google+</a>&nbsp;&nbsp;
+ <a href=\'https://github.com/afollestad\'>GitHub</a>&nbsp;&nbsp;
+ <a href=\'https://www.linkedin.com/in/afollestad\'>Linkedin</a>
+    ]]></string>
+    <string name="details_body_file"><![CDATA[
+ <b>Nume:</b>&nbsp;&nbsp;%1$s<br/><b>Locaţie:</b>&nbsp;&nbsp;%2$s<br/><b>Mӑrime</b>&nbsp;&nbsp;%3$s<br/><b>Modificat:</b>&nbsp;&nbsp;%4$s<br/><b>Privilegii:</b>&nbsp;&nbsp;%5$s
+    ]]></string>
+    <string name="details_body_dir"><![CDATA[
+ <b>Nume:</b>&nbsp;&nbsp;%1$s<br/><b>Locaţie:</b>&nbsp;&nbsp;%2$s<br/><b>Conţinut:</b>&nbsp;&nbsp;%3$s<br/><b>Modificat:</b>&nbsp;&nbsp;%4$s
+    ]]></string>
+    <string name="new_file">Fișier Nou</string>
+    <string name="making_file">Creare fișier…</string>
+    <string name="created_file">Fișierul %1$s a fost creat</string>
+    <string name="file_already_exists">Fișierul este deja existent</string>
+    <string name="failed_make_file">Creare fișier nou eșuatӑ: %1$s</string>
+    <string name="pick_a_file">Alege un fișier…</string>
+    <string name="cabinet_text_editor">Editor Text Cabinet</string>
+    <string name="save">Salveazӑ</string>
+    <string name="unsaved_changes">Schimbӑri nesalvate</string>
+    <string name="unsaved_changes_desc">Ai schimbӑri nesalvate, vrei sӑ le salvez inainte de a ieși?</string>
+    <string name="saving">Se salveazӑ…</string>
+    <string name="loading">Se incarcӑ…</string>
+    <string name="unsupported_extension">Extensie Necunoscutӑ</string>
+    <string name="unsupported_extension_desc">Nu poţi accesa acest tip de fișier pentru editare text.</string>
+    <string name="file_already_exists_warning">Atenţie: acest fișier e deja existent. Noul tӑu fișier va apӑrea ca duplicat.</string>
+    <string name="auto_unzip_prompt">Dezarhiveazӑ aceastӑ arhivӑ în locaţia curentӑ?</string>
+    <string name="filter">Filtreazӑ</string>
+    <string name="none">Niciunul</string>
+    <string name="archives">Arhive</string>
+    <string name="extension">Extensie</string>
+    <string name="no_files_filter">Nici un fișier de tipul: %1$s</string>
+    <string name="superuser_not_available">Superuser nu este valabil</string>
+    <string name="filter_active">Filtru activ: %1$s</string>
+    <string name="dark_theme">Temӑ întunecatӑ</string>
+    <string name="dark_theme_description">Cabinet va folosi culori mai întunecate.</string>
+    <string name="true_black">Negru adevӑrat</string>
+    <string name="true_black_description">Cabinet va folosi negru adevarat folositor pentru ecranele AMOLED.</string>
+    <string name="sdcard">Card SD</string>
+    <string name="owner">Proprietar</string>
+    <string name="group">Grup</string>
+    <string name="applying_permissions">Aplicând privilegii…</string>
+</resources>
